@@ -109,6 +109,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-algolia: 
-  files_to_exclude: 
-    - _posts/*.md
+# algolia: 
+#   files_to_exclude: 
+#     - _posts/*.md
