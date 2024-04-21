@@ -60,15 +60,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Make it count, sugar."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "linkedin.com/skmcneilly"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/sarasitic"
 
 footer:
   links:
@@ -78,6 +75,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "linkedin.com/skmcneilly"
 
 defaults:
   # _posts
