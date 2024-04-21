@@ -1,7 +1,5 @@
 main:
   - title: "About Me"
-    url: /about-me/
+    url: /about/
   - title: "Projects"
-    url: /projects/
-  - title: "Reading List"
-    url: /reading/
+    url: /categories/
