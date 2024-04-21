@@ -16,7 +16,7 @@
 title: Sarasitic
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-Sarasitic's Portfolio
+  - "Sarasitic's Portfolio"
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: mint
