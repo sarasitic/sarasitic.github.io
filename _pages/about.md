@@ -1,8 +1,7 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /about-me/
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In her journey as a Data Scientist, sarasitic has cultivated a deep passion for uncovering insights and solving complex problems through hands-on, self-directed exploration. Her love for the craft blossomed within the dynamic environment of growing Canadian SaaS eCommerce company, where she immersed herself in real-world data challenges and embraced the freedom to innovate. From diving into large datasets to designing and executing experiments, she thrives on the thrill of discovery and the satisfaction of turning raw data into actionable insights. Through continuous learning and experimentation, sarasitic has honed her skills in statistical analysis, and data visualization, eager to tackle the next frontier in data-driven decision-making. As a fervent advocate for data-driven solutions, she is driven by the opportunity to make a meaningful impact through the transformative power of data science.
