@@ -6,3 +6,8 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+body {
+    font-size: medium;
+    font-family: "Times New Roman", Times, serif;
+}
